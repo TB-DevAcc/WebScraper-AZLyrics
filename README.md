@@ -34,12 +34,12 @@ Tran Tracy [@TranTracy](https://github.com/Trantracy)<br>
 
 ## :pray: Acknowledgments
 
-[CoderSchool](https://www.coderschool.vn/en/) for their help, support & mentorship
-Titlephoto by [Soonios Pro](https://www.pexels.com/@sooniospro) from Pexels
-Website Main Image by [Andrea Piacquadio](https://www.pexels.com/@olly) from Pexels
+[CoderSchool](https://www.coderschool.vn/en/) for their help, support & mentorship <br>
+Titlephoto by [Soonios Pro](https://www.pexels.com/@sooniospro) from Pexels <br>
+Website Main Image by [Andrea Piacquadio](https://www.pexels.com/@olly) from Pexels <br>
 
 ## 📝 License
 
-All lyrics are property and copyright of their owners. All lyrics provided for educational purposes and personal use only. All lyrics displayed are taken from [AZlyrics](https://www.Azlyrics.com)® and are not included within the MIT license. <br>
+All lyrics are property and copyright of their owners. All lyrics provided for educational purposes and personal use only. <br> All lyrics displayed are taken from [AZlyrics](https://www.Azlyrics.com)® and are not included within the MIT license. <br>
 Copyright © 2020 [Tobias Becher](https://github.com/TB-DevAcc). <br/>
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
