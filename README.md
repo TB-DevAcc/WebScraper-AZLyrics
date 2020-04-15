@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="media/mic.jpg" width="35%" />
+    <img src="media/mic.jpg" width="45%" />
 </p>
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-<img align="left" src="https://img.shields.io/github/contributors/TB-DevAcc/Data-Analysis-UFC">
-<img align="left" src="https://img.shields.io/github/last-commit/TB-DevAcc/Data-Analysis-UFC">
+<img align="left" src="https://img.shields.io/github/contributors/TB-DevAcc/WebScraper-AZlyrics">
+<img align="left" src="https://img.shields.io/github/last-commit/TB-DevAcc/WebScraper-AZlyrics">
 
 ## :sunrise_over_mountains: Basic Overview
 
@@ -18,7 +18,7 @@ The challenge was to complete the website withing 1 week. (03.03.20-10.03.20)
 The complete WebApp can only be viewed when the Flask app is run. Here is a short preview of the site:
 
 <p align="center">
-    <img src="media/main_singalong.jpg" witdh="70%">
+    <img src="media/main_singalong.png" witdh="70%">
 <p>
 
 ## :boy: Author
@@ -30,7 +30,7 @@ The complete WebApp can only be viewed when the Flask app is run. Here is a shor
 
 ## :raised_hands: Collaborators
 
-Tracy Tran [@TranTracy](https://github.com/Trantracy)<br>
+Tran Tracy [@TranTracy](https://github.com/Trantracy)<br>
 
 ## :pray: Acknowledgments
 
